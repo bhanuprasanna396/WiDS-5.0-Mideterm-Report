@@ -2,6 +2,7 @@
 FaceCipher
 
 Week 1 — Foundations: Data, Math, and First Models
+
 1.1 — Working With Core Python Data Tools
 
 We explored how modern data workflows actually come together in practice. Using Pandas, NumPy, and Matplotlib, we cleaned datasets, transformed arrays, and visualized patterns. This built intuition for how raw data becomes structured insight — the backbone for every future model.
@@ -15,6 +16,7 @@ We moved beyond libraries and engineered a full linear regression pipeline manua
 We simulated a scientist testing rocket propellants and built a logistics model to classify whether the propellant performed efficiently. This meant converting probabilities into binary decisions and understanding why classification needs different math than regression. The exercise strengthened feature preparation, interpretation, and evaluation thinking.
 
 Week 2 — Deep Learning and Modern Vision Systems
+
 2.1 — Image Classification Neural Network
 
 We constructed an end-to-end CNN pipeline that learned to differentiate cartoon characters from images. Data was augmented, normalized, split into training/validation sets, and passed through convolutional layers with pooling and dense heads. The model evolved from guesses to pattern recognition — showing how machines “learn” visual structure.
